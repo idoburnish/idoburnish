@@ -8,7 +8,6 @@
 
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"></a>
 
 <br>
 
